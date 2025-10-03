@@ -33,12 +33,8 @@ theme = 'line'
     contentFile = "Bio"
 
     [[params.HomeElements]]
-    title = "Current Research"
-    contentFile = "CurrentResearch"
-
-    [[params.HomeElements]]
-    title = "Fun Fact"
-    contentFile = "FunFact"
+    title = "Contact"
+    contentFile = "Contact"
 
     #[[params.HomeElements]]
     #title = "Latest posts"
