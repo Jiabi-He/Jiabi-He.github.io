@@ -1,0 +1,53 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Jiabi He'
+theme = 'line'
+
+[params]
+    # Cutting off the page title to two chars for mobile (console-demo -> co)
+    titleCutting = true
+
+    # Set the animation style -- https://animate.style/
+    # To disable animations, please remove or comment animationStyle parameter
+    animateStyle = "animated zoomIn fast" 
+
+    #[[params.navlinks]]
+    #name = "About"
+    #url = "about/"
+
+    [[params.navlinks]]
+    name = "Research Projects"
+    url = "posts/"
+
+    [[params.navlinks]]
+    name = "CV"
+    url = "cv/"
+
+    # 下面是主页内容
+    [[params.HomeElements]]
+    title = "Jiabi He | 何佳璧"
+    contentFile = "JiabiHe"
+
+    [[params.HomeElements]]
+    title = "Bio"
+    contentFile = "Bio"
+
+    [[params.HomeElements]]
+    title = "Current Research"
+    contentFile = "CurrentResearch"
+
+    [[params.HomeElements]]
+    title = "Fun Fact"
+    contentFile = "FunFact"
+
+    #[[params.HomeElements]]
+    #title = "Latest posts"
+    #content = "test4"
+    #type = "posts"
+
+    #[[params.HomeElements]]
+    #title = "Latest photos"
+    #content = "test4"
+    #type = "photos"
+
+      
