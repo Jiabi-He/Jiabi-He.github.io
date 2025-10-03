@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jiabi-he.github.io'
 languageCode = 'en-us'
 title = 'Jiabi He'
 theme = 'line'
