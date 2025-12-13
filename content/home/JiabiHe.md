@@ -1,5 +1,5 @@
 
-Research Assistant, Hong Kong Polytechnic University
+Research Assistant, The Hong Kong Polytechnic University
 
 **[View Research Projects](/posts)**  
 **[View Curriculum Vitae](/cv)**  
