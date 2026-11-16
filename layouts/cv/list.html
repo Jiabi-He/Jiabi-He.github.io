@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<div class="posts-list">
+  {{ range .Pages.ByTitle }}
+    {{ if not .Params.private }}
+      <p>
+        <a href="{{ .Params.redirect | default .RelPermalink }}">
+          {{ .Title }}
+        </a>
+      </p>
+    {{ end }}
+  {{ end }}
+</div>
+
+{{ end }}
