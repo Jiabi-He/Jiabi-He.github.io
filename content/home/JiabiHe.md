@@ -1,7 +1,6 @@
 
-Research Assistant, Beijing Normal University
+Research Assistant, Beijing Normal University Zhuhai
 
-**[View Research Projects](/posts)**  
 **[View Curriculum Vitae](/cv)**  
 
 ![Me](/images/me.jpg)
