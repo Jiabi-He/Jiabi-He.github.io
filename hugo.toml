@@ -15,9 +15,9 @@ theme = 'line'
     #name = "About"
     #url = "about/"
 
-    [[params.navlinks]]
-    name = "Research Projects"
-    url = "posts/"
+    #[[params.navlinks]]
+    #name = "Research Projects"
+    #url = "posts/"
 
     [[params.navlinks]]
     name = "CV"
